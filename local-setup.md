@@ -29,3 +29,4 @@ scipy
 4. Open the cloned repo and use the notebooks it contains to complete the labs.
 
 > **Note**: Due to the variety of possible local environment configurations, we can't support setup or resource issues when using the notebooks on your own computer. The notebooks have been tested in the recommended Azure Machine Learning compute instance environment.
+
